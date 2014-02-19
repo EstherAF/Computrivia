@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Computrivia</string>
+    <string name="next_button">Next questions card</string>
+    <string name="questions_title">Questions</string>
+    <string name="answers_title">Answers</string>
+    
+    
+    <string name="sys_q1">Which is the meaning of a \"LTS\" ubuntu version?</string>
+    <string name="dev_q1">What plataform is needed to execute every java application?</string>
+    <string name="hw_q1">Which is the meaning of RAM?</string>
+    <string name="his_q1">In what decade was defined the SMTP protocol?</string>
+    <string name="misc_q1">What field of computer science uses the "neural network" term?</string>
+
+    <string name="sys_a1">Long Term Support</string>
+    <string name="dev_a1">Java Virtual Machine</string>
+    <string name="hw_a1">Random Access Memory</string>
+    <string name="his_a1">1980\'s</string>
+    <string name="misc_a1">The Artificial Intelligence field and related ones</string>
+    
+    <string name="sys_q2">What are NTFS and ext4?</string>
+    <string name="dev_q2">Which jump statement do you use to exit from a loop? </string>
+    <string name="hw_q2">How much are the transistor dimensions scaled every two years, according the Moore\'s law? </string>
+    <string name="his_q2">Which was the first Microsoft PC\'s OS ?</string>
+    <string name="misc_q2">What field of computer science does use the "neural network" term?</string>
+
+    <string name="sys_a2">File Systems</string>
+    <string name="dev_a2">break</string>
+    <string name="hw_a2">0.7 or 30%</string>
+    <string name="his_a2">MS-DOS</string>
+    <string name="misc_a2">The Artificial Intelligence field and related ones</string>
+</resources>
